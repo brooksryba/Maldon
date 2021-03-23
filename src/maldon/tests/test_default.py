@@ -1,4 +1,4 @@
 import pytest
 
 def test_default():
-    assert 1 == 1
+    assert 0 == 0
